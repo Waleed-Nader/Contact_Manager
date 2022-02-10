@@ -1,0 +1,13 @@
+1 Walid Nader Beirut 03/746952;55/777444;;;;
+2 Ghada Semaan Beirut 33/746952;66/777444;;;;
+3 Charbel Younees Jdeide 70/46888;76/777444;;;;
+4 Rita Tawil Batroun 03/746952;06/777444;;;;
+5 Ghadi ElAli Nabatie 03/777888;03/777444;;;
+6 Joelle Mhanna Virginia 03/778899;70/556645;
+7 Cosette Abdo Jbeil 21/999666;12/789456;;;
+8 Johnny Ishak akkar 70/123456;85/123456;;;;
+9 Bilal Ibrahim Halba 07/456456;01/456456;;;
+10 Jay Yasin Kuwait 78/88880;75/800008;;;
+11 Charbel Youssef Ohio 66/666666;78/666666;;;
+12 Olga Price Atlanta 74/740074;75/750075;;;
+13 Pablo Castanio Mexico 03/445566;75/778899;;;

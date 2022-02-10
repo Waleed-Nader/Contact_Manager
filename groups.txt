@@ -1,0 +1,5 @@
+1;computer;computer system group;
+2;church;church community;
+3;class;class meetings;
+5;trial;new trial;
+6;ArmyG;Crouse Class101;
